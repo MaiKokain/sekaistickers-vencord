@@ -42,7 +42,7 @@ function Modal({ modalProps }: { modalProps: ModalProps; }) {
     const [rotate, setRotate] = React.useState<number>(0);
     const [curve, setCurve] = React.useState<boolean>(false);
     const [isImgLoaded, setImgLoaded] = React.useState<boolean>(false);
-    const [position, setPosition] = React.useState<{ x: number, y: number; }>({ x: 0, y: 0 });
+    const [position, setPosition] = React.useState<{ x: number, y: number; }>({ x: 296 / 2, y: 256 / 2 });
     const [spaceSize, setSpaceSize] = React.useState<number>(30);
     let canvast!: HTMLCanvasElement;
     const img = new Image();
@@ -51,7 +51,7 @@ function Modal({ modalProps }: { modalProps: ModalProps; }) {
 
     React.useEffect(() => {
         setImgLoaded(false);
-        setPosition({ x: img.width / 1.5, y: img.height / 2 });
+        setPosition({ x: img.width / 2, y: img.height / 2 });
     }, [character]);
 
     img.onload = () => { setImgLoaded(true); };
@@ -88,12 +88,14 @@ function Modal({ modalProps }: { modalProps: ModalProps; }) {
             ctx.strokeStyle = "white";
             ctx.fillStyle = characters[character].color;
             if (curve) {
+                let k = 0;
                 for (let i = 0; i < text.length; i++) {
                     ctx.rotate(angle / text.length / 2.5);
                     ctx.save();
                     ctx.translate(0, -1 * fontSize * 3.5);
-                    ctx.strokeText(text[i], 0, 0);
-                    ctx.fillText(text[i], 0, 0);
+                    ctx.strokeText(text[i], 0, -1 * spaceSize);
+                    ctx.fillText(text[i], 0, -1 * spaceSize);
+                    k += spaceSize;
                     ctx.restore();
                 }
             } else {
@@ -146,14 +148,6 @@ function Modal({ modalProps }: { modalProps: ModalProps; }) {
                             UploadHandler.promptToUpload([file], ChannelStore.getChannel(findByProps("getChannelId").getChannelId()), 0);
                         });
                     }}>Upload as Attachment</Button>
-                    {/* <Button onClick={() => {
-                        modalProps.onClose();
-                        canvast.toBlob(blob => {
-                            const file = new File([blob as Blob], `${characters[character].character}-sekai_cards.png`, { type: "image/png" });
-                            UploadHandler.promptToUpload([file], ChannelStore.getChannel(findByProps("getChannelId").getChannelId()), 0);
-                            sendMessage(findByProps("getChannelId").getChannelId(), { content: "\\w+" }, true);
-                        });
-                    }}>Send to Channel</Button> */}
                 </Flex>
             </ModalFooter>
         </ModalRoot>
@@ -166,7 +160,6 @@ export default definePlugin({
     authors: [Devs.MaiKokain],
     settings,
     start: () => {
-
         const fonts = [{ name: "YurukaStd", url: "https://raw.githubusercontent.com/TheOriginalAyaka/sekai-stickers/main/src/fonts/YurukaStd.woff2" }, { name: "SSFangTangTi", url: "https://raw.githubusercontent.com/TheOriginalAyaka/sekai-stickers/main/src/fonts/ShangShouFangTangTi.woff2" }];
         fonts.map(n => {
             new FontFace(n.name, `url(${n.url})`).load().then(
