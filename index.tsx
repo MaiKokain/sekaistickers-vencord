@@ -5,10 +5,11 @@
  */
 
 import { addChatBarButton, ChatBarButton } from "@api/ChatButtons";
+import { definePluginSettings } from "@api/Settings";
 import { Flex } from "@components/Flex";
 import { Devs } from "@utils/constants";
 import { ModalCloseButton, ModalContent, ModalFooter, ModalHeader, ModalProps, ModalRoot, ModalSize, openModal } from "@utils/modal";
-import definePlugin from "@utils/types";
+import definePlugin, { OptionType } from "@utils/types";
 import { findByProps } from "@webpack";
 import { Button, ChannelStore, Forms, React, Slider, Switch, Text, TextInput, UploadHandler } from "@webpack/common";
 
@@ -16,6 +17,14 @@ import { characters } from "./characters.json";
 import Canvas from "./Components/Canvas";
 import CharSelectModal from "./Components/Picker";
 import { kanadeSvg } from "./kanade.svg";
+
+const settings = definePluginSettings({
+    AutoCloseModal: {
+        type: OptionType.BOOLEAN,
+        description: "Auto close modal when done",
+        default: true
+    }
+});
 
 const generateTestCharBar: ChatBarButton = () => {
     return (
@@ -34,16 +43,16 @@ function Modal({ modalProps }: { modalProps: ModalProps; }) {
     const [curve, setCurve] = React.useState<boolean>(false);
     const [isImgLoaded, setImgLoaded] = React.useState<boolean>(false);
     const [position, setPosition] = React.useState<{ x: number, y: number; }>({ x: 0, y: 0 });
-    const [spaceSize, setSpaceSize] = React.useState<number>(18);
+    const [spaceSize, setSpaceSize] = React.useState<number>(30);
     let canvast!: HTMLCanvasElement;
     const img = new Image();
+    img.crossOrigin = "anonymous";
+    img.src = "https://st.ayaka.one/img/" + characters[character].img;
 
     React.useEffect(() => {
         setImgLoaded(false);
-        setPosition({ x: img.width / 2, y: img.height / 2 });
+        setPosition({ x: img.width / 1.5, y: img.height / 2 });
     }, [character]);
-    img.src = "https://st.ayaka.one/img/" + characters[character].img;
-    img.crossOrigin = "anonymous";
 
     img.onload = () => { setImgLoaded(true); };
     const angle = (Math.PI * text.length) / 7;
@@ -131,7 +140,7 @@ function Modal({ modalProps }: { modalProps: ModalProps; }) {
             <ModalFooter>
                 <Flex flexDirection="row" style={{ gap: 12 }}>
                     <Button onClick={() => {
-                        modalProps.onClose();
+                        if (settings.store.AutoCloseModal) modalProps.onClose();
                         canvast.toBlob(blob => {
                             const file = new File([blob as Blob], `${characters[character].character}-sekai_cards.png`, { type: "image/png" });
                             UploadHandler.promptToUpload([file], ChannelStore.getChannel(findByProps("getChannelId").getChannelId()), 0);
@@ -155,7 +164,9 @@ export default definePlugin({
     name: "Sekai Stickers",
     description: "Sekai Stickers built in discord originally from github.com/TheOriginalAyaka",
     authors: [Devs.MaiKokain],
+    settings,
     start: () => {
+
         const fonts = [{ name: "YurukaStd", url: "https://raw.githubusercontent.com/TheOriginalAyaka/sekai-stickers/main/src/fonts/YurukaStd.woff2" }, { name: "SSFangTangTi", url: "https://raw.githubusercontent.com/TheOriginalAyaka/sekai-stickers/main/src/fonts/ShangShouFangTangTi.woff2" }];
         fonts.map(n => {
             new FontFace(n.name, `url(${n.url})`).load().then(
@@ -166,52 +177,3 @@ export default definePlugin({
         addChatBarButton("SekaiStickers", generateTestCharBar);
     },
 });
-
-
-// const importApngJs = makeLazy(async () => {
-//     const exports = {}
-//     const winProxy = new Proxy(window, { set: (_, k, v) => exports[k] = v });
-//     Function("self", await fetch("https://cdnjs.cloudflare.com/ajax/libs/apng-canvas/2.1.1/apng-canvas.min.js").then(r => r.text()))(winProxy);
-//     return exports.APNG;
-//   });
-
-
-//   // once needed
-//   const apng = await importApngJs();
-
-// fetch("https://raw.githubusercontent.com/TheOriginalAyaka/sekai-stickers/main/public/img/Haruka/Haruka_01.png")
-//   .then((response) => response.body)
-//   .then((rb) => {
-//     const reader = rb.getReader();
-
-//     return new ReadableStream({
-//       start(controller) {
-//         // The following function handles each data chunk
-//         function push() {
-//           // "done" is a Boolean and value a "Uint8Array"
-//           reader.read().then(({ done, value }) => {
-//             // If there is no more data to read
-//             if (done) {
-//               console.log("done", done);
-//               controller.close();
-//               return;
-//             }
-//             // Get the data and send it to the browser via the controller
-//             controller.enqueue(value);
-//             // Check chunks by logging to the console
-//             push();
-//           });
-//         }
-
-//         push();
-//       },
-//     });
-//   })
-//   .then((stream) =>
-//     // Respond with our stream
-//     new Response(stream, { headers: { "Content-Type": "image/png" } }).blob(),
-//   )
-//   .then((result) => {
-//     // Do things with result
-//     console.log(result.text());
-//   });
