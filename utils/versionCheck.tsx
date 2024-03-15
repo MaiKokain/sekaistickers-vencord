@@ -1,7 +1,7 @@
 import { showNotification } from "@api/Notifications";
 import { Button } from "@webpack/common";
 
-export const VERSION = "1.0.1";
+export const VERSION = "1.0.0";
 
 async function getVersion() {
     const repoVersion = await (await fetch("https://raw.githubusercontent.com/MaiKokain/sekaistickers-vencord/main/utils/versionCheck.tsx", { cache: "no-cache" })).text();
@@ -13,19 +13,17 @@ async function getVersion() {
 
     const [currMajor, currMinor, currPatch] = VERSION.split(".").map(m => parseInt(m));
 
-    console.log(`curre: ${VERSION}, repo ver: ${repoVersion}`);
-    if (major > currMajor || minor > currMinor || patch > currPatch) return repoVersion;
+    if (major > currMajor || minor > currMinor || patch > currPatch) return version;
 
     return false;
 }
 
 export async function checkUpdate() {
     const updateVer = await getVersion();
-    console.log(updateVer);
     if (!updateVer) return;
 
     showNotification({
-        title: `Update available for SekaiStickers: ${updateVer}`,
+        title: `Update available for Sekai Stickers: ${updateVer}`,
         body: "Update or knight Mafuyu Asahina comes to your house",
         permanent: false,
         noPersist: true,
