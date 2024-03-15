@@ -12,12 +12,26 @@ import definePlugin, { OptionType } from "@utils/types";
 
 import SekaiStickersModal from "./Components/SekaiStickersModal";
 import { kanadeSvg } from "./kanade.svg";
+import { Button } from "@webpack/common";
+import { updateButton } from "./utils/versionCheck";
+import { checkForUpdates } from "@utils/updater";
 
 const settings = definePluginSettings({
     AutoCloseModal: {
         type: OptionType.BOOLEAN,
         description: "Auto close modal when done",
         default: true
+    },
+    checkForUpdateOnStartUp: {
+        type: OptionType.BOOLEAN,
+        description: "Auto check for update on start up",
+        default: true,
+        placeholder: "Check update on start up"
+    },
+    checkForUpdate: {
+        type: OptionType.COMPONENT,
+        description: "Check for update",
+        component: updateButton
     }
 });
 
@@ -35,6 +49,7 @@ export default definePlugin({
     authors: [Devs.MaiKokain],
     settings,
     start: () => {
+        if (settings.store.checkForUpdateOnStartUp) checkForUpdates();
         const fonts = [{ name: "YurukaStd", url: "https://raw.githubusercontent.com/TheOriginalAyaka/sekai-stickers/main/src/fonts/YurukaStd.woff2" }, { name: "SSFangTangTi", url: "https://raw.githubusercontent.com/TheOriginalAyaka/sekai-stickers/main/src/fonts/ShangShouFangTangTi.woff2" }];
         fonts.map(n => {
             new FontFace(n.name, `url(${n.url})`).load().then(
