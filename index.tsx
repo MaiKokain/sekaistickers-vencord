@@ -12,9 +12,7 @@ import definePlugin, { OptionType } from "@utils/types";
 
 import SekaiStickersModal from "./Components/SekaiStickersModal";
 import { kanadeSvg } from "./kanade.svg";
-import { Button } from "@webpack/common";
-import { updateButton } from "./utils/versionCheck";
-import { checkForUpdates } from "@utils/updater";
+import { checkUpdate, updateButton } from "./utils/versionCheck";
 
 const settings = definePluginSettings({
     AutoCloseModal: {
@@ -48,8 +46,7 @@ export default definePlugin({
     description: "Sekai Stickers built in discord originally from github.com/TheOriginalAyaka",
     authors: [Devs.MaiKokain],
     settings,
-    start: () => {
-        if (settings.store.checkForUpdateOnStartUp) checkForUpdates();
+    start: async () => {
         const fonts = [{ name: "YurukaStd", url: "https://raw.githubusercontent.com/TheOriginalAyaka/sekai-stickers/main/src/fonts/YurukaStd.woff2" }, { name: "SSFangTangTi", url: "https://raw.githubusercontent.com/TheOriginalAyaka/sekai-stickers/main/src/fonts/ShangShouFangTangTi.woff2" }];
         fonts.map(n => {
             new FontFace(n.name, `url(${n.url})`).load().then(
@@ -58,5 +55,6 @@ export default definePlugin({
             );
         });
         addChatBarButton("SekaiStickers", generateChatButton);
+        if (settings.store.checkForUpdateOnStartUp) await checkUpdate();
     },
 });
