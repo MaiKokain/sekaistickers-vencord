@@ -20,7 +20,7 @@ export default function SekaiStickersModal({ modalProps, settings }: { modalProp
     const [rotate, setRotate] = React.useState<number>(0);
     const [curve, setCurve] = React.useState<boolean>(false);
     const [isImgLoaded, setImgLoaded] = React.useState<boolean>(false);
-    const [position, setPosition] = React.useState<{ x: number, y: number; }>({ x: 296 / 2, y: 256 / 2 });
+    const [position, setPosition] = React.useState<{ x: number, y: number; }>({ x: 148, y: 56 });
     const [spaceSize, setSpaceSize] = React.useState<number>(30);
     let canvast!: HTMLCanvasElement;
     const img = new Image();
@@ -29,7 +29,7 @@ export default function SekaiStickersModal({ modalProps, settings }: { modalProp
 
     React.useEffect(() => {
         setImgLoaded(false);
-        setPosition({ x: img.width / 2, y: img.height / 2 });
+        setPosition({ x: 148, y: 56 });
     }, [character]);
 
     img.onload = () => { setImgLoaded(true); };
