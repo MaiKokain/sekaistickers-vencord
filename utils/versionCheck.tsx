@@ -4,7 +4,7 @@ import { Button } from "@webpack/common";
 export const VERSION = "1.0.0";
 
 async function getVersion() {
-    const repoVersion = await (await fetch("https://codeberg.org/maikokain/sekaistickers-vencord/raw/branch/main/VERSION", { cache: "no-cache" })).text();
+    const repoVersion = await (await fetch("https://raw.githubusercontent.com/MaiKokain/sekaistickers-vencord/main/VERSION", { cache: "no-cache" })).text();
     const repoVersionMatch = repoVersion.match(/(.)+/);
     if (!repoVersionMatch) return;
 
@@ -32,5 +32,5 @@ export async function checkUpdate() {
 }
 
 export function updateButton() {
-    return (<Button onClick={() => checkUpdate()} label="Check for Updates" />);
+    return (<Button onClick={() => { console.log("www"); checkUpdate(); }}>Check for update!</Button>);
 }
