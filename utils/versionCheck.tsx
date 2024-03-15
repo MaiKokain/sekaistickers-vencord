@@ -1,19 +1,19 @@
 import { showNotification } from "@api/Notifications";
 import { Button } from "@webpack/common";
 
-export const VERSION = "1.0.0";
+export const VERSION = "1.0.1";
 
 async function getVersion() {
-    const repoVersion = await (await fetch("https://raw.githubusercontent.com/MaiKokain/sekaistickers-vencord/main/VERSION", { cache: "no-cache" })).text();
-    const repoVersionMatch = repoVersion.match(/(.)+/);
+    const repoVersion = await (await fetch("https://raw.githubusercontent.com/MaiKokain/sekaistickers-vencord/main/utils/versionCheck.tsx", { cache: "no-cache" })).text();
+    const repoVersionMatch = repoVersion.match(/export const VERSION = "(.+)";/);
     if (!repoVersionMatch) return;
-
     const [_, version] = repoVersionMatch;
     const [major, minor, patch] = version.split(".").map(m => parseInt(m));
     if (Number.isNaN(major) || Number.isNaN(minor) || Number.isNaN(patch)) return false;
 
     const [currMajor, currMinor, currPatch] = VERSION.split(".").map(m => parseInt(m));
 
+    console.log(`curre: ${VERSION}, repo ver: ${repoVersion}`);
     if (major > currMajor || minor > currMinor || patch > currPatch) return repoVersion;
 
     return false;
@@ -21,6 +21,7 @@ async function getVersion() {
 
 export async function checkUpdate() {
     const updateVer = await getVersion();
+    console.log(updateVer);
     if (!updateVer) return;
 
     showNotification({
@@ -32,5 +33,5 @@ export async function checkUpdate() {
 }
 
 export function updateButton() {
-    return (<Button onClick={() => { console.log("www"); checkUpdate(); }}>Check for update!</Button>);
+    return (<Button onClick={() => checkUpdate()}>Check for update!</Button>);
 }
