@@ -1,7 +1,13 @@
+/*
+ * Vencord, a Discord client mod
+ * Copyright (c) 2024 Vendicated and contributors
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ */
+
 import { showNotification } from "@api/Notifications";
 import { Button } from "@webpack/common";
 
-export const VERSION = "1.0.0";
+export const VERSION = "1.0.1";
 
 async function getVersion() {
     const repoVersion = await (await fetch("https://raw.githubusercontent.com/MaiKokain/sekaistickers-vencord/main/utils/versionCheck.tsx", { cache: "no-cache" })).text();
