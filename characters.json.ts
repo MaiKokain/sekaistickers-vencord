@@ -53,7 +53,13 @@ export const characters = [
         "character": "airi",
         "img": "airi/Airi_04.png",
         "color": "#FB8AAC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "8",
@@ -61,7 +67,13 @@ export const characters = [
         "character": "airi",
         "img": "airi/Airi_06.png",
         "color": "#FB8AAC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "9",
@@ -69,7 +81,13 @@ export const characters = [
         "character": "airi",
         "img": "airi/Airi_07.png",
         "color": "#FB8AAC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "10",
@@ -77,7 +95,13 @@ export const characters = [
         "character": "airi",
         "img": "airi/Airi_08.png",
         "color": "#FB8AAC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "11",
@@ -85,7 +109,13 @@ export const characters = [
         "character": "airi",
         "img": "airi/Airi_09.png",
         "color": "#FB8AAC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "13",
@@ -93,7 +123,13 @@ export const characters = [
         "character": "airi",
         "img": "airi/Airi_11.png",
         "color": "#FB8AAC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "14",
@@ -101,7 +137,13 @@ export const characters = [
         "character": "airi",
         "img": "airi/Airi_12.png",
         "color": "#FB8AAC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "15",
@@ -109,7 +151,13 @@ export const characters = [
         "character": "airi",
         "img": "airi/Airi_13.png",
         "color": "#FB8AAC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "16",
@@ -117,7 +165,13 @@ export const characters = [
         "character": "airi",
         "img": "airi/Airi_14.png",
         "color": "#FB8AAC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "18",
@@ -125,7 +179,13 @@ export const characters = [
         "character": "airi",
         "img": "airi/Airi_16.png",
         "color": "#FB8AAC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "19",
@@ -133,7 +193,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_01.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "20",
@@ -141,7 +207,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_02.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "21",
@@ -149,7 +221,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_03.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "22",
@@ -157,7 +235,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_04.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "24",
@@ -165,7 +249,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_06.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "25",
@@ -173,7 +263,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_07.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "26",
@@ -181,7 +277,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_08.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "27",
@@ -189,7 +291,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_09.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "29",
@@ -197,7 +305,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_11.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "30",
@@ -205,7 +319,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_12.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "31",
@@ -213,7 +333,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_13.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "32",
@@ -221,7 +347,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_14.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "33",
@@ -229,7 +361,13 @@ export const characters = [
         "character": "akito",
         "img": "akito/Akito_16.png",
         "color": "#FF7722",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "34",
@@ -237,7 +375,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_01.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "35",
@@ -245,7 +389,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_02.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "36",
@@ -253,7 +403,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_03.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "37",
@@ -261,7 +417,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_04.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "39",
@@ -269,7 +431,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_06.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "40",
@@ -277,7 +445,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_07.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "41",
@@ -285,7 +459,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_08.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "42",
@@ -293,7 +473,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_09.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "44",
@@ -301,7 +487,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_11.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "45",
@@ -309,7 +501,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_12.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "46",
@@ -317,7 +515,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_13.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "47",
@@ -325,7 +529,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_14.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "49",
@@ -333,7 +543,13 @@ export const characters = [
         "character": "an",
         "img": "an/An_16.png",
         "color": "#00BADC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "50",
@@ -341,7 +557,13 @@ export const characters = [
         "character": "emu",
         "img": "emu/Emu_01.png",
         "color": "#FF66BB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "51",
@@ -349,7 +571,13 @@ export const characters = [
         "character": "emu",
         "img": "emu/Emu_02.png",
         "color": "#FF66BB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "52",
@@ -357,7 +585,13 @@ export const characters = [
         "character": "emu",
         "img": "emu/Emu_03.png",
         "color": "#FF66BB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "53",
@@ -365,7 +599,13 @@ export const characters = [
         "character": "emu",
         "img": "emu/Emu_04.png",
         "color": "#FF66BB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "55",
@@ -373,7 +613,13 @@ export const characters = [
         "character": "emu",
         "img": "emu/Emu_06.png",
         "color": "#FF66BB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "56",
@@ -381,7 +627,13 @@ export const characters = [
         "character": "emu",
         "img": "emu/Emu_07.png",
         "color": "#FF66BB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "57",
@@ -389,7 +641,13 @@ export const characters = [
         "character": "emu",
         "img": "emu/Emu_08.png",
         "color": "#FF66BB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "58",
@@ -397,7 +655,13 @@ export const characters = [
         "character": "emu",
         "img": "emu/Emu_09.png",
         "color": "#FF66BB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "60",
@@ -405,7 +669,13 @@ export const characters = [
         "character": "emu",
         "img": "emu/Emu_11.png",
         "color": "#FF66BB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "61",
@@ -413,7 +683,13 @@ export const characters = [
         "character": "emu",
         "img": "emu/Emu_12.png",
         "color": "#FF66BB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "62",
@@ -435,7 +711,13 @@ export const characters = [
         "character": "emu",
         "img": "emu/Emu_14.png",
         "color": "#FF66BB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "65",
@@ -443,7 +725,13 @@ export const characters = [
         "character": "emu",
         "img": "emu/Emu_16.png",
         "color": "#FF66BB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "66",
@@ -451,7 +739,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_01.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "67",
@@ -459,7 +753,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_02.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "68",
@@ -467,7 +767,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_03.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "69",
@@ -475,7 +781,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_04.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "71",
@@ -483,7 +795,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_06.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "72",
@@ -491,7 +809,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_07.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "73",
@@ -499,7 +823,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_08.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "74",
@@ -507,7 +837,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_09.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "76",
@@ -515,7 +851,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_11.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "77",
@@ -523,7 +865,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_12.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "78",
@@ -531,7 +879,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_13.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "79",
@@ -539,7 +893,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_14.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "81",
@@ -547,7 +907,13 @@ export const characters = [
         "character": "ena",
         "img": "ena/Ena_16.png",
         "color": "#B18F6C",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "81",
@@ -555,7 +921,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_01.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "82",
@@ -563,7 +935,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_02.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "83",
@@ -571,7 +949,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_03.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "84",
@@ -579,7 +963,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_04.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "85",
@@ -587,7 +977,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_06.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "86",
@@ -595,7 +991,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_07.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "87",
@@ -603,7 +1005,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_08.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "88",
@@ -611,7 +1019,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_09.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "89",
@@ -619,7 +1033,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_11.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "90",
@@ -627,7 +1047,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_12.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "91",
@@ -635,7 +1061,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_13.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "92",
@@ -643,7 +1075,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_14.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "93",
@@ -651,7 +1089,13 @@ export const characters = [
         "character": "Haruka",
         "img": "Haruka/Haruka_16.png",
         "color": "#6495F0",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "94",
@@ -659,7 +1103,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_01.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "95",
@@ -667,7 +1117,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_02.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "96",
@@ -675,7 +1131,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_03.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "97",
@@ -683,7 +1145,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_04.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "98",
@@ -691,7 +1159,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_06.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "99",
@@ -699,7 +1173,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_07.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "100",
@@ -707,7 +1187,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_08.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "101",
@@ -715,7 +1201,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_09.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "102",
@@ -723,7 +1215,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_11.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "103",
@@ -731,7 +1229,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_12.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "104",
@@ -739,7 +1243,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_13.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "105",
@@ -747,7 +1257,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_14.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "106",
@@ -755,7 +1271,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_16.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "107",
@@ -763,7 +1285,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_17.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "108",
@@ -771,7 +1299,13 @@ export const characters = [
         "character": "Honami",
         "img": "Honami/Honami_18.png",
         "color": "#F86666",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "109",
@@ -779,7 +1313,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_01.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "110",
@@ -787,7 +1327,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_02.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "111",
@@ -795,7 +1341,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_03.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "112",
@@ -803,7 +1355,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_04.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "113",
@@ -811,7 +1369,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_06.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "114",
@@ -819,7 +1383,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_07.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "115",
@@ -827,7 +1397,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_08.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "116",
@@ -835,7 +1411,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_09.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "117",
@@ -843,7 +1425,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_11.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "118",
@@ -851,7 +1439,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_12.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "119",
@@ -859,7 +1453,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_13.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "120",
@@ -867,7 +1467,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_14.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "121",
@@ -875,7 +1481,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_16.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "122",
@@ -883,7 +1495,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_17.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "123",
@@ -891,7 +1509,13 @@ export const characters = [
         "character": "Ichika",
         "img": "Ichika/Ichika_18.png",
         "color": "#33AAEE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "124",
@@ -899,7 +1523,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_01.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "125",
@@ -907,7 +1537,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_02.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "126",
@@ -915,7 +1551,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_03.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "127",
@@ -923,7 +1565,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_04.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "128",
@@ -931,7 +1579,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_06.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "129",
@@ -939,7 +1593,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_07.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "130",
@@ -947,7 +1607,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_08.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "131",
@@ -955,7 +1621,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_09.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "132",
@@ -963,7 +1635,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_11.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "133",
@@ -971,7 +1649,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_12.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "134",
@@ -979,7 +1663,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_13.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "135",
@@ -987,7 +1677,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_14.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "136",
@@ -995,7 +1691,13 @@ export const characters = [
         "character": "KAITO",
         "img": "KAITO/KAITO_16.png",
         "color": "#3366CC",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "137",
@@ -1003,7 +1705,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_01.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "138",
@@ -1011,7 +1719,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_02.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "139",
@@ -1019,7 +1733,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_03.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "140",
@@ -1027,7 +1747,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_04.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "141",
@@ -1035,7 +1761,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_06.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "142",
@@ -1043,7 +1775,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_07.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "143",
@@ -1051,7 +1789,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_08.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "144",
@@ -1059,7 +1803,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_09.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "145",
@@ -1067,7 +1817,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_11.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "146",
@@ -1075,7 +1831,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_12.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "147",
@@ -1083,7 +1845,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_13.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "148",
@@ -1091,7 +1859,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_14.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "149",
@@ -1099,7 +1873,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_16.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "150",
@@ -1107,7 +1887,13 @@ export const characters = [
         "character": "Kanade",
         "img": "Kanade/Kanade_17.png",
         "color": "#BB6688",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "151",
@@ -1115,7 +1901,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_01.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "152",
@@ -1123,7 +1915,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_02.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "153",
@@ -1131,7 +1929,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_03.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "154",
@@ -1139,7 +1943,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_04.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "155",
@@ -1147,7 +1957,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_06.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "156",
@@ -1155,7 +1971,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_07.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "157",
@@ -1163,7 +1985,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_08.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "158",
@@ -1171,7 +1999,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_09.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "159",
@@ -1179,7 +2013,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_11.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "160",
@@ -1187,7 +2027,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_12.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "161",
@@ -1195,7 +2041,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_13.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "162",
@@ -1203,7 +2055,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_14.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "163",
@@ -1211,7 +2069,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_16.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "164",
@@ -1219,7 +2083,13 @@ export const characters = [
         "character": "Kohane",
         "img": "Kohane/Kohane_17.png",
         "color": "#FF6699",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "165",
@@ -1227,7 +2097,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_01.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "166",
@@ -1235,7 +2111,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_02.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "167",
@@ -1243,7 +2125,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_03.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "168",
@@ -1251,7 +2139,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_04.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "169",
@@ -1259,7 +2153,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_06.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "170",
@@ -1267,7 +2167,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_07.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "171",
@@ -1275,7 +2181,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_08.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "172",
@@ -1283,7 +2195,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_09.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "173",
@@ -1291,7 +2209,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_11.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "174",
@@ -1299,7 +2223,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_12.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "175",
@@ -1307,7 +2237,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_13.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "176",
@@ -1315,7 +2251,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_14.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "177",
@@ -1323,7 +2265,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_16.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "178",
@@ -1331,7 +2279,13 @@ export const characters = [
         "character": "Len",
         "img": "Len/Len_17.png",
         "color": "#D3BD00",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "179",
@@ -1339,7 +2293,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_01.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "180",
@@ -1347,7 +2307,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_02.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "181",
@@ -1355,7 +2321,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_03.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "182",
@@ -1363,7 +2335,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_04.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "183",
@@ -1371,7 +2349,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_06.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "184",
@@ -1379,7 +2363,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_07.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "185",
@@ -1387,7 +2377,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_08.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "186",
@@ -1395,7 +2391,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_09.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "187",
@@ -1403,7 +2405,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_11.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "188",
@@ -1411,7 +2419,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_12.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "189",
@@ -1419,7 +2433,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_13.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "190",
@@ -1427,7 +2447,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_14.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "191",
@@ -1435,7 +2461,13 @@ export const characters = [
         "character": "Luka",
         "img": "Luka/Luka_16.png",
         "color": "#F88CA7",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "192",
@@ -1443,7 +2475,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_01.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "193",
@@ -1451,7 +2489,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_02.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "194",
@@ -1459,7 +2503,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_03.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "195",
@@ -1467,7 +2517,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_04.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "196",
@@ -1475,7 +2531,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_06.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "197",
@@ -1483,7 +2545,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_07.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "198",
@@ -1491,7 +2559,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_08.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "199",
@@ -1499,7 +2573,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_09.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "200",
@@ -1507,7 +2587,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_11.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "201",
@@ -1515,7 +2601,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_12.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "202",
@@ -1523,7 +2615,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_13.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "203",
@@ -1531,7 +2629,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_14.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "204",
@@ -1539,7 +2643,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_16.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "205",
@@ -1547,7 +2657,13 @@ export const characters = [
         "character": "Mafuyu",
         "img": "Mafuyu/Mafuyu_17.png",
         "color": "#7171AF",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "206",
@@ -1555,7 +2671,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_01.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "207",
@@ -1563,7 +2685,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_02.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "208",
@@ -1571,7 +2699,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_03.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "209",
@@ -1579,7 +2713,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_04.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "210",
@@ -1587,7 +2727,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_06.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "211",
@@ -1595,7 +2741,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_07.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "212",
@@ -1603,7 +2755,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_08.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "213",
@@ -1611,7 +2769,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_09.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "214",
@@ -1619,7 +2783,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_11.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "215",
@@ -1627,7 +2797,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_12.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "216",
@@ -1635,7 +2811,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_13.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "217",
@@ -1643,7 +2825,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_14.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "218",
@@ -1651,7 +2839,13 @@ export const characters = [
         "character": "Meiko",
         "img": "Meiko/Meiko_16.png",
         "color": "#E4485F",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "219",
@@ -1659,7 +2853,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_01.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "220",
@@ -1667,7 +2867,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_02.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "221",
@@ -1675,7 +2881,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_03.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "222",
@@ -1683,7 +2895,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_04.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "223",
@@ -1691,7 +2909,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_06.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "224",
@@ -1699,7 +2923,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_07.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "225",
@@ -1707,7 +2937,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_08.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "226",
@@ -1715,7 +2951,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_09.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "227",
@@ -1723,7 +2965,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_11.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "228",
@@ -1731,7 +2979,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_12.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "229",
@@ -1739,7 +2993,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_13.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "230",
@@ -1747,7 +3007,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_14.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "231",
@@ -1755,7 +3021,13 @@ export const characters = [
         "character": "Miku",
         "img": "Miku/Miku_16.png",
         "color": "#33CCBB",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "232",
@@ -1763,7 +3035,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_01.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "233",
@@ -1771,7 +3049,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_02.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "234",
@@ -1779,7 +3063,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_03.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "235",
@@ -1787,7 +3077,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_04.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "236",
@@ -1795,7 +3091,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_06.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "237",
@@ -1803,7 +3105,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_07.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "238",
@@ -1811,7 +3119,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_08.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "239",
@@ -1819,7 +3133,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_09.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "240",
@@ -1827,7 +3147,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_11.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "241",
@@ -1835,7 +3161,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_12.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "242",
@@ -1843,7 +3175,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_13.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "243",
@@ -1851,7 +3189,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_14.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "244",
@@ -1859,7 +3203,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_16.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "245",
@@ -1867,7 +3217,13 @@ export const characters = [
         "character": "Minori",
         "img": "Minori/Minori_17.png",
         "color": "#F39E7D",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "246",
@@ -1875,7 +3231,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_01.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "247",
@@ -1883,7 +3245,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_02.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "248",
@@ -1891,7 +3259,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_03.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "249",
@@ -1899,7 +3273,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_04.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "250",
@@ -1907,7 +3287,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_06.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "251",
@@ -1915,7 +3301,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_07.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "252",
@@ -1923,7 +3315,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_08.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "253",
@@ -1931,7 +3329,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_09.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "254",
@@ -1939,7 +3343,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_11.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "255",
@@ -1947,7 +3357,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_12.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "256",
@@ -1955,7 +3371,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_13.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "257",
@@ -1963,7 +3385,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_14.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "258",
@@ -1971,7 +3399,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_16.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "259",
@@ -1979,7 +3413,13 @@ export const characters = [
         "character": "Mizuki",
         "img": "Mizuki/Mizuki_17.png",
         "color": "#CA8DB6",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "260",
@@ -1987,7 +3427,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_01.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "261",
@@ -1995,7 +3441,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_02.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "262",
@@ -2003,7 +3455,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_03.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "263",
@@ -2011,7 +3469,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_04.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "264",
@@ -2019,7 +3483,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_06.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "265",
@@ -2027,7 +3497,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_07.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "266",
@@ -2035,7 +3511,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_08.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "267",
@@ -2043,7 +3525,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_09.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "268",
@@ -2051,7 +3539,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_11.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "269",
@@ -2059,7 +3553,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_12.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "270",
@@ -2067,7 +3567,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_13.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "271",
@@ -2075,7 +3581,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_14.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "272",
@@ -2083,7 +3595,13 @@ export const characters = [
         "character": "Nene",
         "img": "Nene/Nene_16.png",
         "color": "#19CD94",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "273",
@@ -2091,7 +3609,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_01.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "274",
@@ -2099,7 +3623,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_02.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "275",
@@ -2107,7 +3637,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_03.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "276",
@@ -2115,7 +3651,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_04.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "277",
@@ -2123,7 +3665,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_06.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "278",
@@ -2131,7 +3679,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_07.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "279",
@@ -2139,7 +3693,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_08.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "280",
@@ -2147,7 +3707,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_09.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "281",
@@ -2155,7 +3721,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_11.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "282",
@@ -2163,7 +3735,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_12.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "283",
@@ -2171,7 +3749,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_13.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "284",
@@ -2179,7 +3763,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_14.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "285",
@@ -2187,7 +3777,13 @@ export const characters = [
         "character": "Rin",
         "img": "Rin/Rin_16.png",
         "color": "#E8A505",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "286",
@@ -2195,7 +3791,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_01.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "287",
@@ -2203,7 +3805,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_02.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "288",
@@ -2211,7 +3819,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_03.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "289",
@@ -2219,7 +3833,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_04.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "290",
@@ -2227,7 +3847,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_06.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "291",
@@ -2235,7 +3861,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_07.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "292",
@@ -2243,7 +3875,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_08.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "293",
@@ -2251,7 +3889,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_09.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "294",
@@ -2259,7 +3903,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_11.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "295",
@@ -2267,7 +3917,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_12.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "296",
@@ -2275,7 +3931,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_13.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "297",
@@ -2283,7 +3945,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_14.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "298",
@@ -2291,7 +3959,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_16.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "299",
@@ -2299,7 +3973,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_17.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "300",
@@ -2307,7 +3987,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_18.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "301",
@@ -2315,7 +4001,13 @@ export const characters = [
         "character": "Rui",
         "img": "Rui/Rui_19.png",
         "color": "#BB88EE",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "302",
@@ -2323,7 +4015,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_01.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "303",
@@ -2331,7 +4029,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_02.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "304",
@@ -2339,7 +4043,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_03.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "305",
@@ -2347,7 +4057,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_04.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "306",
@@ -2355,7 +4071,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_06.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "307",
@@ -2363,7 +4085,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_07.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "308",
@@ -2371,7 +4099,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_08.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "309",
@@ -2379,7 +4113,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_09.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "310",
@@ -2387,7 +4127,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_11.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "311",
@@ -2395,7 +4141,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_12.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "312",
@@ -2403,7 +4155,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_13.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "313",
@@ -2411,7 +4169,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_14.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "314",
@@ -2419,7 +4183,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_16.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "315",
@@ -2427,7 +4197,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_17.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "316",
@@ -2435,7 +4211,13 @@ export const characters = [
         "character": "Saki",
         "img": "Saki/Saki_18.png",
         "color": "#F5B303",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "317",
@@ -2443,7 +4225,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_01.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "318",
@@ -2451,7 +4239,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_02.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "319",
@@ -2459,7 +4253,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_03.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "320",
@@ -2467,7 +4267,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_04.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "321",
@@ -2475,7 +4281,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_06.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "322",
@@ -2483,7 +4295,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_07.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "323",
@@ -2491,7 +4309,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_08.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "324",
@@ -2499,7 +4323,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_09.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "325",
@@ -2507,7 +4337,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_11.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "326",
@@ -2515,7 +4351,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_12.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "327",
@@ -2523,7 +4365,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_13.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "328",
@@ -2531,7 +4379,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_14.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "329",
@@ -2539,7 +4393,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_16.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "330",
@@ -2547,7 +4407,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_17.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "331",
@@ -2555,7 +4421,13 @@ export const characters = [
         "character": "Shiho",
         "img": "Shiho/Shiho_18.png",
         "color": "#A0C10B",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "332",
@@ -2563,7 +4435,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_01.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "333",
@@ -2571,7 +4449,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_02.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "334",
@@ -2579,7 +4463,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_03.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "335",
@@ -2587,7 +4477,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_04.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "336",
@@ -2595,7 +4491,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_06.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "337",
@@ -2603,7 +4505,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_07.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "338",
@@ -2611,7 +4519,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_08.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "339",
@@ -2619,7 +4533,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_09.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "340",
@@ -2627,7 +4547,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_11.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "341",
@@ -2635,7 +4561,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_12.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "342",
@@ -2643,7 +4575,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_13.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "343",
@@ -2651,7 +4589,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_14.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "344",
@@ -2659,7 +4603,13 @@ export const characters = [
         "character": "Shizuku",
         "img": "Shizuku/Shizuku_16.png",
         "color": "#5CD0B9",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "345",
@@ -2667,7 +4617,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_01.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "346",
@@ -2675,7 +4631,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_02.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "347",
@@ -2683,7 +4645,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_03.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "348",
@@ -2691,7 +4659,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_04.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "349",
@@ -2699,7 +4673,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_06.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "350",
@@ -2707,7 +4687,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_07.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "351",
@@ -2715,7 +4701,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_08.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "352",
@@ -2723,7 +4715,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_09.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "353",
@@ -2731,7 +4729,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_11.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "354",
@@ -2739,7 +4743,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_12.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "355",
@@ -2747,7 +4757,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_13.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "356",
@@ -2755,7 +4771,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_14.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "357",
@@ -2763,7 +4785,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_16.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "358",
@@ -2771,7 +4799,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_17.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "359",
@@ -2779,7 +4813,13 @@ export const characters = [
         "character": "Touya",
         "img": "Touya/Touya_18.png",
         "color": "#0077DD",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "360",
@@ -2787,7 +4827,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_01.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "361",
@@ -2795,7 +4841,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_02.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "362",
@@ -2803,7 +4855,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_03.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "363",
@@ -2811,7 +4869,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_04.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "364",
@@ -2819,7 +4883,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_06.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "365",
@@ -2827,7 +4897,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_07.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "366",
@@ -2835,7 +4911,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_08.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "367",
@@ -2843,7 +4925,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_09.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "368",
@@ -2851,7 +4939,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_11.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "369",
@@ -2859,7 +4953,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_12.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "370",
@@ -2867,7 +4967,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_13.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "371",
@@ -2875,7 +4981,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_14.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "372",
@@ -2883,7 +4995,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_16.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "373",
@@ -2891,7 +5009,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_17.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     },
     {
         "id": "374",
@@ -2899,7 +5023,13 @@ export const characters = [
         "character": "Tsukasa",
         "img": "Tsukasa/Tsukasa_18.png",
         "color": "#F09A04",
-
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     }
 
 ];
