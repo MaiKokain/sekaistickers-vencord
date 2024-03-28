@@ -7,7 +7,7 @@
 import { showNotification } from "@api/Notifications";
 import { Button } from "@webpack/common";
 
-export const VERSION = "1.0.1";
+export const VERSION = "1.0.2";
 
 async function getVersion() {
     const repoVersion = await (await fetch("https://raw.githubusercontent.com/MaiKokain/sekaistickers-vencord/main/utils/versionCheck.tsx", { cache: "no-cache" })).text();
