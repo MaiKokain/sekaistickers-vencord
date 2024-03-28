@@ -6,8 +6,7 @@
 
 import { Flex } from "@components/Flex";
 import { ModalCloseButton, ModalContent, ModalFooter, ModalHeader, ModalProps, ModalRoot, ModalSize, openModal } from "@utils/modal";
-import { findByProps } from "@webpack";
-import { Button, ChannelStore, Forms, React, Slider, Switch, Text, TextArea, UploadHandler } from "@webpack/common";
+import { Button, ChannelStore, Forms, React, SelectedChannelStore, Slider, Switch, Text, TextArea, UploadHandler } from "@webpack/common";
 
 import { characters } from "../characters.json";
 import Canvas from "./Canvas";
@@ -129,7 +128,7 @@ export default function SekaiStickersModal({ modalProps, settings }: { modalProp
                         if (settings.store.AutoCloseModal) modalProps.onClose();
                         canvast.toBlob(blob => {
                             const file = new File([blob as Blob], `${characters[character].character}-sekai_cards.png`, { type: "image/png" });
-                            UploadHandler.promptToUpload([file], ChannelStore.getChannel(findByProps("getChannelId").getChannelId()), 0);
+                            UploadHandler.promptToUpload([file], ChannelStore.getChannel(SelectedChannelStore.getChannelId()), 0);
                         });
                     }}>Upload as Attachment</Button>
                 </Flex>
