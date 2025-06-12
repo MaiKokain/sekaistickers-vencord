@@ -8,6 +8,7 @@ import { Flex } from "@components/Flex";
 import { ModalCloseButton, ModalContent, ModalHeader, ModalProps, ModalRoot, ModalSize } from "@utils/modal";
 import { React, ScrollerThin, Text, TextInput } from "@webpack/common";
 
+import { BASE_URL } from "../cfg";
 import { characters } from "../characters.json";
 
 export default function CharSelectModal({ modalProps, setCharacter }: { modalProps: ModalProps; setCharacter?: any; }) {
@@ -22,7 +23,7 @@ export default function CharSelectModal({ modalProps, setCharacter }: { modalPro
                 c.character.toLowerCase().includes(s)
             ) {
                 return (
-                    <img key={index} onClick={() => { modalProps.onClose(); setCharacter(index); }} src={`https://st.ayaka.one/img/${c.img}`} srcSet={`https://st.ayaka.one/img/${c.img}`} loading="lazy" />
+                    <img key={index} onClick={() => { modalProps.onClose(); setCharacter(index); }} src={`${BASE_URL}${c.img}`} srcSet={`${BASE_URL}${c.img}`} loading="lazy" />
                 );
             }
 

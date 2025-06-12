@@ -8,6 +8,7 @@ import { Flex } from "@components/Flex";
 import { ModalCloseButton, ModalContent, ModalFooter, ModalHeader, ModalProps, ModalRoot, ModalSize, openModal } from "@utils/modal";
 import { Button, ChannelStore, Forms, React, SelectedChannelStore, Slider, Switch, Text, TextArea, UploadHandler } from "@webpack/common";
 
+import { BASE_URL } from "../cfg";
 import { characters } from "../characters.json";
 import Canvas from "./Canvas";
 import CharSelectModal from "./Picker";
@@ -24,7 +25,7 @@ export default function SekaiStickersModal({ modalProps, settings }: { modalProp
     let canvast!: HTMLCanvasElement;
     const img = new Image();
     img.crossOrigin = "anonymous";
-    img.src = "https://st.ayaka.one/img/" + characters[character].img;
+    img.src = BASE_URL + characters[character].img;
 
     React.useEffect(() => {
         setPosition({
